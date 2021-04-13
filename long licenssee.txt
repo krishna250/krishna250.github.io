@@ -1,0 +1,51 @@
+rishna have to check the windows app to find the logi where the county code is getting appended with Licensee 
+plate
+
+validation- 9 char
+
+responselog
+veh exp -ACE
+LONG LICENSEE
+stage test console
+sonar
+
+AVIS/ ABRAC authentication.--zeenz
+
+veh exg- with ACE TYPE
+
+ACE- LOCATION, CKIN, COUT, ADJ,CANCELLATION.
+fleetrarequest table- if any licesnse plate with prefix ES is there or not
+fleetnotification process- whlie sending notufication in business layer
+under fleet transation process.
+if we remove then is any valid licensee plate is getting excluded or not?
+16 10;12-- STAGE
+18 10:12-- prod
+
+wco having non aena location.
+aenalocationlookup table
+wco, chkin-present, chkout missing
+
+गुप्ता अन्द दौघ्तेर्स ट्रेडर्स
+GUPTA AND DAUGHTERS TRADERS
+गुप्ता अन्द  चिल्द्रेन्स ट्रेडर्स 
+
+गुप्ता आण्ड चिल्द्रेन्स ट्रेडर्स 
+
+
+गुप्ता ट्रेडर्स 
+
+आण्ड
+Gupta And Childrens Traders
+trading
+पूजा खाढ्य ऊढ्योग्
+
+गुप्ता ट्रेडर्स 
+GUPTA TRADERS
+
+कृष्ण कुमार गुप्ता
+
+https://aws-test.aena.es/gala-ws/servicioAlquilerVehiculos
+
+PUJA KHADHYA UDHYOG
+
+1531, 1533, 7513
